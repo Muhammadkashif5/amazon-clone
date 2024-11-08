@@ -15,7 +15,7 @@ An Amazon clone project created from scratch using core HTML and CSS. This proje
 
 ## 🚀 Live Demo
 
-Check out the live version deployed on Vercel: [Your Vercel Link](https://your-vercel-link)
+Check out the live version deployed on GitHub Pages: [GitHub Pages Link](https://muhammadkashif5.github.io/amazon-clone/)
 
 ## 📸 Screenshots
 
@@ -27,6 +27,10 @@ Check out the live version deployed on Vercel: [Your Vercel Link](https://your-v
 
 ### Footer Section
 ![Product Section Screenshot](assets/footer-section.PNG)
+
+## 📄 File Structure
+
+amazon-clone/ ├── index.html # Main HTML file ├── css/ │ └── style.css # Main CSS file └── assets/ # Folder for images and other assets
 
 
 ## 📈 Future Improvements
